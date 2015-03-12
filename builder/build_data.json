@@ -1,0 +1,2552 @@
+{
+  "build_hash": "5f076a91d5d733b82b4b50df0b8bb26c",
+  "prefix": "go-",
+  "version": "0.0.1",
+  "name": "google-icons-font",
+  "icons": [
+    {
+      "code": "0xf101",
+      "name": "3d-rotation"
+    },
+    {
+      "code": "0xf100",
+      "name": "accessibility"
+    },
+    {
+      "code": "0xf2c7",
+      "name": "account-balance"
+    },
+    {
+      "code": "0xf359",
+      "name": "account-box"
+    },
+    {
+      "code": "0xf35a",
+      "name": "account-child"
+    },
+    {
+      "code": "0xf35b",
+      "name": "account-wallet"
+    },
+    {
+      "code": "0xf35c",
+      "name": "adb"
+    },
+    {
+      "code": "0xf2c9",
+      "name": "add"
+    },
+    {
+      "code": "0xf35d",
+      "name": "adjust"
+    },
+    {
+      "code": "0xf35f",
+      "name": "airplanemode-off"
+    },
+    {
+      "code": "0xf35e",
+      "name": "airplanemode-on"
+    },
+    {
+      "code": "0xf365",
+      "name": "alarm"
+    },
+    {
+      "code": "0xf361",
+      "name": "alarm-add"
+    },
+    {
+      "code": "0xf360",
+      "name": "alarm-off"
+    },
+    {
+      "code": "0xf363",
+      "name": "alarm-on"
+    },
+    {
+      "code": "0xf362",
+      "name": "alarm-snooze"
+    },
+    {
+      "code": "0xf364",
+      "name": "album"
+    },
+    {
+      "code": "0xf30f",
+      "name": "android"
+    },
+    {
+      "code": "0xf366",
+      "name": "archive"
+    },
+    {
+      "code": "0xf367",
+      "name": "arrow-down"
+    },
+    {
+      "code": "0xf368",
+      "name": "arrow-left"
+    },
+    {
+      "code": "0xf369",
+      "name": "arrow-right"
+    },
+    {
+      "code": "0xf36a",
+      "name": "arrow-up"
+    },
+    {
+      "code": "0xf36b",
+      "name": "artists"
+    },
+    {
+      "code": "0xf36c",
+      "name": "aspect-ratio"
+    },
+    {
+      "code": "0xf36f",
+      "name": "assignment"
+    },
+    {
+      "code": "0xf36d",
+      "name": "assignment-done"
+    },
+    {
+      "code": "0xf2d1",
+      "name": "assignment-ind"
+    },
+    {
+      "code": "0xf2d2",
+      "name": "assignment-late"
+    },
+    {
+      "code": "0xf2d3",
+      "name": "assignment-return"
+    },
+    {
+      "code": "0xf36e",
+      "name": "assignment-submit"
+    },
+    {
+      "code": "0xf370",
+      "name": "attach-file"
+    },
+    {
+      "code": "0xf2d4",
+      "name": "attach-money"
+    },
+    {
+      "code": "0xf374",
+      "name": "attachment"
+    },
+    {
+      "code": "0xf371",
+      "name": "audiotrack"
+    },
+    {
+      "code": "0xf373",
+      "name": "av-timer"
+    },
+    {
+      "code": "0xf372",
+      "name": "backspace"
+    },
+    {
+      "code": "0xf375",
+      "name": "battery-20"
+    },
+    {
+      "code": "0xf376",
+      "name": "battery-30"
+    },
+    {
+      "code": "0xf2d7",
+      "name": "battery-50"
+    },
+    {
+      "code": "0xf37a",
+      "name": "battery-60"
+    },
+    {
+      "code": "0xf377",
+      "name": "battery-80"
+    },
+    {
+      "code": "0xf378",
+      "name": "battery-90"
+    },
+    {
+      "code": "0xf379",
+      "name": "battery-alert"
+    },
+    {
+      "code": "0xf138",
+      "name": "battery-charging-30"
+    },
+    {
+      "code": "0xf13b",
+      "name": "battery-charging-50"
+    },
+    {
+      "code": "0xf13c",
+      "name": "battery-charging-60"
+    },
+    {
+      "code": "0xf145",
+      "name": "battery-charging-80"
+    },
+    {
+      "code": "0xf146",
+      "name": "battery-charging-90"
+    },
+    {
+      "code": "0xf37f",
+      "name": "battery-charging-full"
+    },
+    {
+      "code": "0xf37b",
+      "name": "battery-charging_20"
+    },
+    {
+      "code": "0xf380",
+      "name": "battery-full"
+    },
+    {
+      "code": "0xf381",
+      "name": "battery-unknown"
+    },
+    {
+      "code": "0xf382",
+      "name": "block"
+    },
+    {
+      "code": "0xf383",
+      "name": "block-inverse"
+    },
+    {
+      "code": "0xf387",
+      "name": "bluetooth"
+    },
+    {
+      "code": "0xf2dd",
+      "name": "bluetooth-audio"
+    },
+    {
+      "code": "0xf384",
+      "name": "bluetooth-connected"
+    },
+    {
+      "code": "0xf385",
+      "name": "bluetooth-disabled"
+    },
+    {
+      "code": "0xf386",
+      "name": "bluetooth-searching"
+    },
+    {
+      "code": "0xf388",
+      "name": "bluetooth-settings"
+    },
+    {
+      "code": "0xf389",
+      "name": "blur-circular"
+    },
+    {
+      "code": "0xf2e0",
+      "name": "blur-linear"
+    },
+    {
+      "code": "0xf38a",
+      "name": "blur-off"
+    },
+    {
+      "code": "0xf38b",
+      "name": "blur-on"
+    },
+    {
+      "code": "0xf2e3",
+      "name": "book"
+    },
+    {
+      "code": "0xf38c",
+      "name": "book-album"
+    },
+    {
+      "code": "0xf38e",
+      "name": "bookmark"
+    },
+    {
+      "code": "0xf38d",
+      "name": "bookmark-outline"
+    },
+    {
+      "code": "0xf14c",
+      "name": "border-all"
+    },
+    {
+      "code": "0xf38f",
+      "name": "border-bottom"
+    },
+    {
+      "code": "0xf2e4",
+      "name": "border-clear"
+    },
+    {
+      "code": "0xf390",
+      "name": "border-color"
+    },
+    {
+      "code": "0xf391",
+      "name": "border-horizontal"
+    },
+    {
+      "code": "0xf2e9",
+      "name": "border-inner"
+    },
+    {
+      "code": "0xf392",
+      "name": "border-left"
+    },
+    {
+      "code": "0xf2eb",
+      "name": "border-outer"
+    },
+    {
+      "code": "0xf393",
+      "name": "border-right"
+    },
+    {
+      "code": "0xf394",
+      "name": "border-style"
+    },
+    {
+      "code": "0xf2ec",
+      "name": "border-top"
+    },
+    {
+      "code": "0xf395",
+      "name": "border-vertical"
+    },
+    {
+      "code": "0xf396",
+      "name": "brightness-1"
+    },
+    {
+      "code": "0xf397",
+      "name": "brightness-2"
+    },
+    {
+      "code": "0xf398",
+      "name": "brightness-3"
+    },
+    {
+      "code": "0xf39b",
+      "name": "brightness-4"
+    },
+    {
+      "code": "0xf399",
+      "name": "brightness-5"
+    },
+    {
+      "code": "0xf39a",
+      "name": "brightness-6"
+    },
+    {
+      "code": "0xf39c",
+      "name": "brightness-7"
+    },
+    {
+      "code": "0xf39d",
+      "name": "brightness-auto"
+    },
+    {
+      "code": "0xf39e",
+      "name": "brush"
+    },
+    {
+      "code": "0xf3a0",
+      "name": "bug"
+    },
+    {
+      "code": "0xf39f",
+      "name": "cake"
+    },
+    {
+      "code": "0xf14d",
+      "name": "call-end"
+    },
+    {
+      "code": "0xf3a2",
+      "name": "call-made"
+    },
+    {
+      "code": "0xf3a3",
+      "name": "call-merge"
+    },
+    {
+      "code": "0xf3a4",
+      "name": "call-missed"
+    },
+    {
+      "code": "0xf2f0",
+      "name": "call-received"
+    },
+    {
+      "code": "0xf3a5",
+      "name": "call-split"
+    },
+    {
+      "code": "0xf2f4",
+      "name": "camera"
+    },
+    {
+      "code": "0xf3a6",
+      "name": "camera-mic"
+    },
+    {
+      "code": "0xf3a7",
+      "name": "camera-mode"
+    },
+    {
+      "code": "0xf3a8",
+      "name": "camera-roll"
+    },
+    {
+      "code": "0xf3aa",
+      "name": "cast"
+    },
+    {
+      "code": "0xf3a9",
+      "name": "cast-connected"
+    },
+    {
+      "code": "0xf3ab",
+      "name": "cell-android"
+    },
+    {
+      "code": "0xf2f5",
+      "name": "cell-camera-front"
+    },
+    {
+      "code": "0xf2f6",
+      "name": "cell-camera-rear"
+    },
+    {
+      "code": "0xf2f7",
+      "name": "cell-dock"
+    },
+    {
+      "code": "0xf2f8",
+      "name": "cell-info"
+    },
+    {
+      "code": "0xf3ac",
+      "name": "cell-landscape"
+    },
+    {
+      "code": "0xf2fc",
+      "name": "cell-lock-landscape"
+    },
+    {
+      "code": "0xf3ad",
+      "name": "cell-lock-portrait"
+    },
+    {
+      "code": "0xf3ae",
+      "name": "cell-lock-rotation"
+    },
+    {
+      "code": "0xf2fd",
+      "name": "cell-portrait"
+    },
+    {
+      "code": "0xf3af",
+      "name": "cell-rotation"
+    },
+    {
+      "code": "0xf3b0",
+      "name": "cell-settings"
+    },
+    {
+      "code": "0xf3b1",
+      "name": "cell-tap"
+    },
+    {
+      "code": "0xf3b2",
+      "name": "cell-update"
+    },
+    {
+      "code": "0xf3b5",
+      "name": "check-box"
+    },
+    {
+      "code": "0xf3b3",
+      "name": "check-box-add"
+    },
+    {
+      "code": "0xf3b4",
+      "name": "check-box-outline"
+    },
+    {
+      "code": "0xf3b6",
+      "name": "circle-account"
+    },
+    {
+      "code": "0xf3b9",
+      "name": "circle-add"
+    },
+    {
+      "code": "0xf3b7",
+      "name": "circle-add-multiple"
+    },
+    {
+      "code": "0xf3b8",
+      "name": "circle-add-outline"
+    },
+    {
+      "code": "0xf3ba",
+      "name": "circle-cancel"
+    },
+    {
+      "code": "0xf3bb",
+      "name": "circle-check"
+    },
+    {
+      "code": "0xf3bc",
+      "name": "circle-error"
+    },
+    {
+      "code": "0xf3bd",
+      "name": "circle-help"
+    },
+    {
+      "code": "0xf313",
+      "name": "circle-info"
+    },
+    {
+      "code": "0xf305",
+      "name": "circle-info-outline"
+    },
+    {
+      "code": "0xf103",
+      "name": "circle-pause"
+    },
+    {
+      "code": "0xf102",
+      "name": "circle-pause-outline"
+    },
+    {
+      "code": "0xf105",
+      "name": "circle-play"
+    },
+    {
+      "code": "0xf104",
+      "name": "circle-play-outline"
+    },
+    {
+      "code": "0xf25f",
+      "name": "circle-remove"
+    },
+    {
+      "code": "0xf25e",
+      "name": "circle-remove-outline"
+    },
+    {
+      "code": "0xf260",
+      "name": "circle-stars"
+    },
+    {
+      "code": "0xf261",
+      "name": "circle-swap-vert"
+    },
+    {
+      "code": "0xf106",
+      "name": "clear"
+    },
+    {
+      "code": "0xf262",
+      "name": "clear-all"
+    },
+    {
+      "code": "0xf107",
+      "name": "closed-caption"
+    },
+    {
+      "code": "0xf10a",
+      "name": "cloud"
+    },
+    {
+      "code": "0xf108",
+      "name": "cloud-circle"
+    },
+    {
+      "code": "0xf14e",
+      "name": "cloud-done"
+    },
+    {
+      "code": "0xf263",
+      "name": "cloud-download"
+    },
+    {
+      "code": "0xf264",
+      "name": "cloud-off"
+    },
+    {
+      "code": "0xf265",
+      "name": "cloud-outline"
+    },
+    {
+      "code": "0xf266",
+      "name": "cloud-upload"
+    },
+    {
+      "code": "0xf10b",
+      "name": "colorize"
+    },
+    {
+      "code": "0xf267",
+      "name": "compare"
+    },
+    {
+      "code": "0xf268",
+      "name": "contact-cal"
+    },
+    {
+      "code": "0xf10e",
+      "name": "contacts"
+    },
+    {
+      "code": "0xf10c",
+      "name": "contacts-dialer"
+    },
+    {
+      "code": "0xf10d",
+      "name": "contacts-mail"
+    },
+    {
+      "code": "0xf314",
+      "name": "copy"
+    },
+    {
+      "code": "0xf10f",
+      "name": "credit-card"
+    },
+    {
+      "code": "0xf116",
+      "name": "crop"
+    },
+    {
+      "code": "0xf111",
+      "name": "crop-16-9"
+    },
+    {
+      "code": "0xf3bf",
+      "name": "crop-3-2"
+    },
+    {
+      "code": "0xf3be",
+      "name": "crop-5-4"
+    },
+    {
+      "code": "0xf110",
+      "name": "crop-7-5"
+    },
+    {
+      "code": "0xf112",
+      "name": "crop-din"
+    },
+    {
+      "code": "0xf113",
+      "name": "crop-free"
+    },
+    {
+      "code": "0xf114",
+      "name": "crop-landscape"
+    },
+    {
+      "code": "0xf115",
+      "name": "crop-original"
+    },
+    {
+      "code": "0xf269",
+      "name": "crop-portrait"
+    },
+    {
+      "code": "0xf26a",
+      "name": "crop-square"
+    },
+    {
+      "code": "0xf315",
+      "name": "cut"
+    },
+    {
+      "code": "0xf26b",
+      "name": "dashboard"
+    },
+    {
+      "code": "0xf3c0",
+      "name": "data-usage"
+    },
+    {
+      "code": "0xf26c",
+      "name": "dehaze"
+    },
+    {
+      "code": "0xf2be",
+      "name": "desktop-mac"
+    },
+    {
+      "code": "0xf26d",
+      "name": "desktop-windows"
+    },
+    {
+      "code": "0xf117",
+      "name": "details"
+    },
+    {
+      "code": "0xf118",
+      "name": "developer-mode"
+    },
+    {
+      "code": "0xf119",
+      "name": "devices"
+    },
+    {
+      "code": "0xf316",
+      "name": "dialpad"
+    },
+    {
+      "code": "0xf11b",
+      "name": "disc-full"
+    },
+    {
+      "code": "0xf11a",
+      "name": "dns"
+    },
+    {
+      "code": "0xf11e",
+      "name": "done"
+    },
+    {
+      "code": "0xf11c",
+      "name": "done-all"
+    },
+    {
+      "code": "0xf11d",
+      "name": "dvr"
+    },
+    {
+      "code": "0xf11f",
+      "name": "edit"
+    },
+    {
+      "code": "0xf122",
+      "name": "education"
+    },
+    {
+      "code": "0xf124",
+      "name": "email"
+    },
+    {
+      "code": "0xf120",
+      "name": "email-draft"
+    },
+    {
+      "code": "0xf121",
+      "name": "email-inbox"
+    },
+    {
+      "code": "0xf123",
+      "name": "email-send"
+    },
+    {
+      "code": "0xf125",
+      "name": "ethernet"
+    },
+    {
+      "code": "0xf128",
+      "name": "event"
+    },
+    {
+      "code": "0xf126",
+      "name": "event-available"
+    },
+    {
+      "code": "0xf127",
+      "name": "event-busy"
+    },
+    {
+      "code": "0xf26e",
+      "name": "event-note"
+    },
+    {
+      "code": "0xf12a",
+      "name": "event-today"
+    },
+    {
+      "code": "0xf129",
+      "name": "exit-to-app"
+    },
+    {
+      "code": "0xf317",
+      "name": "explicit"
+    },
+    {
+      "code": "0xf12b",
+      "name": "explore"
+    },
+    {
+      "code": "0xf12c",
+      "name": "exposure"
+    },
+    {
+      "code": "0xf271",
+      "name": "exposure-minus-1"
+    },
+    {
+      "code": "0xf26f",
+      "name": "exposure-minus-2"
+    },
+    {
+      "code": "0xf270",
+      "name": "exposure-plus-1"
+    },
+    {
+      "code": "0xf272",
+      "name": "exposure-plus-2"
+    },
+    {
+      "code": "0xf273",
+      "name": "exposure-zero"
+    },
+    {
+      "code": "0xf274",
+      "name": "extension"
+    },
+    {
+      "code": "0xf275",
+      "name": "face"
+    },
+    {
+      "code": "0xf318",
+      "name": "favorite"
+    },
+    {
+      "code": "0xf3c1",
+      "name": "favorite-outline"
+    },
+    {
+      "code": "0xf276",
+      "name": "file"
+    },
+    {
+      "code": "0xf12d",
+      "name": "file-add"
+    },
+    {
+      "code": "0xf12f",
+      "name": "file-description"
+    },
+    {
+      "code": "0xf12e",
+      "name": "file-download"
+    },
+    {
+      "code": "0xf130",
+      "name": "file-upload"
+    },
+    {
+      "code": "0xf139",
+      "name": "filter"
+    },
+    {
+      "code": "0xf3c2",
+      "name": "filter-1"
+    },
+    {
+      "code": "0xf2bf",
+      "name": "filter-2"
+    },
+    {
+      "code": "0xf277",
+      "name": "filter-3"
+    },
+    {
+      "code": "0xf131",
+      "name": "filter-4"
+    },
+    {
+      "code": "0xf132",
+      "name": "filter-5"
+    },
+    {
+      "code": "0xf3c3",
+      "name": "filter-6"
+    },
+    {
+      "code": "0xf3c5",
+      "name": "filter-7"
+    },
+    {
+      "code": "0xf3c4",
+      "name": "filter-8"
+    },
+    {
+      "code": "0xf133",
+      "name": "filter-9"
+    },
+    {
+      "code": "0xf306",
+      "name": "filter-9-plus"
+    },
+    {
+      "code": "0xf278",
+      "name": "filter-b-w"
+    },
+    {
+      "code": "0xf134",
+      "name": "filter-center-focus"
+    },
+    {
+      "code": "0xf135",
+      "name": "filter-drama"
+    },
+    {
+      "code": "0xf319",
+      "name": "filter-frames"
+    },
+    {
+      "code": "0xf279",
+      "name": "filter-list"
+    },
+    {
+      "code": "0xf31a",
+      "name": "filter-none"
+    },
+    {
+      "code": "0xf137",
+      "name": "filter-tilt-shift"
+    },
+    {
+      "code": "0xf136",
+      "name": "filter-vintage"
+    },
+    {
+      "code": "0xf27a",
+      "name": "find-in-page"
+    },
+    {
+      "code": "0xf2c0",
+      "name": "find-replace"
+    },
+    {
+      "code": "0xf13a",
+      "name": "flag"
+    },
+    {
+      "code": "0xf31b",
+      "name": "flare"
+    },
+    {
+      "code": "0xf13d",
+      "name": "flash-auto"
+    },
+    {
+      "code": "0xf13e",
+      "name": "flash-off"
+    },
+    {
+      "code": "0xf13f",
+      "name": "flash-on"
+    },
+    {
+      "code": "0xf14f",
+      "name": "flip"
+    },
+    {
+      "code": "0xf27b",
+      "name": "flip-to-back"
+    },
+    {
+      "code": "0xf31c",
+      "name": "flip-to-front"
+    },
+    {
+      "code": "0xf3c6",
+      "name": "focus-strong"
+    },
+    {
+      "code": "0xf140",
+      "name": "focus-weak"
+    },
+    {
+      "code": "0xf27c",
+      "name": "folder"
+    },
+    {
+      "code": "0xf141",
+      "name": "folder-open"
+    },
+    {
+      "code": "0xf31d",
+      "name": "folder-shared"
+    },
+    {
+      "code": "0xf143",
+      "name": "folder-special"
+    },
+    {
+      "code": "0xf142",
+      "name": "format-align-center"
+    },
+    {
+      "code": "0xf144",
+      "name": "format-align-justify"
+    },
+    {
+      "code": "0xf27d",
+      "name": "format-align-left"
+    },
+    {
+      "code": "0xf147",
+      "name": "format-align-right"
+    },
+    {
+      "code": "0xf148",
+      "name": "format-bold"
+    },
+    {
+      "code": "0xf14a",
+      "name": "format-clear"
+    },
+    {
+      "code": "0xf149",
+      "name": "format-color-fill"
+    },
+    {
+      "code": "0xf14b",
+      "name": "format-color-reset"
+    },
+    {
+      "code": "0xf3c8",
+      "name": "format-color-text"
+    },
+    {
+      "code": "0xf3c7",
+      "name": "format-indent-decrease"
+    },
+    {
+      "code": "0xf3ca",
+      "name": "format-indent-increase"
+    },
+    {
+      "code": "0xf3c9",
+      "name": "format-italic"
+    },
+    {
+      "code": "0xf3cc",
+      "name": "format-line-spacing"
+    },
+    {
+      "code": "0xf3cb",
+      "name": "format-list-bulleted"
+    },
+    {
+      "code": "0xf3ce",
+      "name": "format-list-numbered"
+    },
+    {
+      "code": "0xf3cd",
+      "name": "format-paint"
+    },
+    {
+      "code": "0xf3cf",
+      "name": "format-quote"
+    },
+    {
+      "code": "0xf3d0",
+      "name": "format-size"
+    },
+    {
+      "code": "0xf3d1",
+      "name": "format-strikethrough"
+    },
+    {
+      "code": "0xf3d2",
+      "name": "format-textdirection-lr"
+    },
+    {
+      "code": "0xf3d3",
+      "name": "format-textdirection-rl"
+    },
+    {
+      "code": "0xf3d4",
+      "name": "format-underline"
+    },
+    {
+      "code": "0xf150",
+      "name": "forward"
+    },
+    {
+      "code": "0xf151",
+      "name": "functions"
+    },
+    {
+      "code": "0xf152",
+      "name": "games"
+    },
+    {
+      "code": "0xf153",
+      "name": "gesture"
+    },
+    {
+      "code": "0xf154",
+      "name": "gps-fixed"
+    },
+    {
+      "code": "0xf155",
+      "name": "gps-not-fixed"
+    },
+    {
+      "code": "0xf156",
+      "name": "gps-off"
+    },
+    {
+      "code": "0xf157",
+      "name": "gradient"
+    },
+    {
+      "code": "0xf158",
+      "name": "grain"
+    },
+    {
+      "code": "0xf159",
+      "name": "graph"
+    },
+    {
+      "code": "0xf15a",
+      "name": "grid-off"
+    },
+    {
+      "code": "0xf15b",
+      "name": "grid-on"
+    },
+    {
+      "code": "0xf15c",
+      "name": "group-work"
+    },
+    {
+      "code": "0xf15d",
+      "name": "hdr-off"
+    },
+    {
+      "code": "0xf15e",
+      "name": "hdr-on"
+    },
+    {
+      "code": "0xf15f",
+      "name": "hdr-strong"
+    },
+    {
+      "code": "0xf160",
+      "name": "hdr-weak"
+    },
+    {
+      "code": "0xf162",
+      "name": "headset"
+    },
+    {
+      "code": "0xf161",
+      "name": "headset-mic"
+    },
+    {
+      "code": "0xf163",
+      "name": "healing"
+    },
+    {
+      "code": "0xf164",
+      "name": "hearing"
+    },
+    {
+      "code": "0xf165",
+      "name": "high-quality"
+    },
+    {
+      "code": "0xf166",
+      "name": "history"
+    },
+    {
+      "code": "0xf167",
+      "name": "home"
+    },
+    {
+      "code": "0xf168",
+      "name": "hospital"
+    },
+    {
+      "code": "0xf16a",
+      "name": "image"
+    },
+    {
+      "code": "0xf169",
+      "name": "image-aspect-ratio"
+    },
+    {
+      "code": "0xf16b",
+      "name": "import-export"
+    },
+    {
+      "code": "0xf170",
+      "name": "input"
+    },
+    {
+      "code": "0xf16c",
+      "name": "input-antenna"
+    },
+    {
+      "code": "0xf16d",
+      "name": "input-component"
+    },
+    {
+      "code": "0xf16e",
+      "name": "input-hdmi"
+    },
+    {
+      "code": "0xf16f",
+      "name": "input-svideo"
+    },
+    {
+      "code": "0xf171",
+      "name": "insert-link"
+    },
+    {
+      "code": "0xf173",
+      "name": "invert-colors"
+    },
+    {
+      "code": "0xf172",
+      "name": "invert-colors-off"
+    },
+    {
+      "code": "0xf179",
+      "name": "keyboard"
+    },
+    {
+      "code": "0xf174",
+      "name": "keyboard-backspace"
+    },
+    {
+      "code": "0xf175",
+      "name": "keyboard-capslock"
+    },
+    {
+      "code": "0xf176",
+      "name": "keyboard-hide"
+    },
+    {
+      "code": "0xf177",
+      "name": "keyboard-return"
+    },
+    {
+      "code": "0xf178",
+      "name": "keyboard-tab"
+    },
+    {
+      "code": "0xf17b",
+      "name": "label"
+    },
+    {
+      "code": "0xf17a",
+      "name": "label-outline"
+    },
+    {
+      "code": "0xf17c",
+      "name": "landscape"
+    },
+    {
+      "code": "0xf17d",
+      "name": "language"
+    },
+    {
+      "code": "0xf181",
+      "name": "laptop"
+    },
+    {
+      "code": "0xf17e",
+      "name": "laptop-chromebook"
+    },
+    {
+      "code": "0xf17f",
+      "name": "laptop-mac"
+    },
+    {
+      "code": "0xf180",
+      "name": "laptop-windows"
+    },
+    {
+      "code": "0xf182",
+      "name": "launch"
+    },
+    {
+      "code": "0xf184",
+      "name": "layers"
+    },
+    {
+      "code": "0xf183",
+      "name": "layers-clear"
+    },
+    {
+      "code": "0xf185",
+      "name": "leak-add"
+    },
+    {
+      "code": "0xf186",
+      "name": "leak-remove"
+    },
+    {
+      "code": "0xf187",
+      "name": "library-add"
+    },
+    {
+      "code": "0xf188",
+      "name": "library-books"
+    },
+    {
+      "code": "0xf189",
+      "name": "library-music"
+    },
+    {
+      "code": "0xf18a",
+      "name": "library-photos"
+    },
+    {
+      "code": "0xf18b",
+      "name": "library-shop"
+    },
+    {
+      "code": "0xf18c",
+      "name": "library-video"
+    },
+    {
+      "code": "0xf18d",
+      "name": "link"
+    },
+    {
+      "code": "0xf18e",
+      "name": "list"
+    },
+    {
+      "code": "0xf18f",
+      "name": "live-help"
+    },
+    {
+      "code": "0xf192",
+      "name": "lock"
+    },
+    {
+      "code": "0xf190",
+      "name": "lock-open"
+    },
+    {
+      "code": "0xf191",
+      "name": "lock-outline"
+    },
+    {
+      "code": "0xf199",
+      "name": "looks"
+    },
+    {
+      "code": "0xf193",
+      "name": "looks-1"
+    },
+    {
+      "code": "0xf194",
+      "name": "looks-2"
+    },
+    {
+      "code": "0xf195",
+      "name": "looks-3"
+    },
+    {
+      "code": "0xf196",
+      "name": "looks-4"
+    },
+    {
+      "code": "0xf197",
+      "name": "looks-5"
+    },
+    {
+      "code": "0xf198",
+      "name": "looks-6"
+    },
+    {
+      "code": "0xf19a",
+      "name": "loupe"
+    },
+    {
+      "code": "0xf19b",
+      "name": "mailbox"
+    },
+    {
+      "code": "0xf1c4",
+      "name": "map"
+    },
+    {
+      "code": "0xf19c",
+      "name": "map-atm"
+    },
+    {
+      "code": "0xf19d",
+      "name": "map-bar"
+    },
+    {
+      "code": "0xf19e",
+      "name": "map-beenhere"
+    },
+    {
+      "code": "0xf19f",
+      "name": "map-bike"
+    },
+    {
+      "code": "0xf1a0",
+      "name": "map-bus"
+    },
+    {
+      "code": "0xf1a1",
+      "name": "map-business"
+    },
+    {
+      "code": "0xf1a2",
+      "name": "map-cafe"
+    },
+    {
+      "code": "0xf1a4",
+      "name": "map-car"
+    },
+    {
+      "code": "0xf1a3",
+      "name": "map-car-wash"
+    },
+    {
+      "code": "0xf1a5",
+      "name": "map-city"
+    },
+    {
+      "code": "0xf1a6",
+      "name": "map-convenience-store"
+    },
+    {
+      "code": "0xf1a7",
+      "name": "map-directions"
+    },
+    {
+      "code": "0xf1a8",
+      "name": "map-drink"
+    },
+    {
+      "code": "0xf1a9",
+      "name": "map-ferry"
+    },
+    {
+      "code": "0xf1aa",
+      "name": "map-florist"
+    },
+    {
+      "code": "0xf1ab",
+      "name": "map-gas-station"
+    },
+    {
+      "code": "0xf1ac",
+      "name": "map-grocery-store"
+    },
+    {
+      "code": "0xf1ad",
+      "name": "map-history"
+    },
+    {
+      "code": "0xf1ae",
+      "name": "map-hotel"
+    },
+    {
+      "code": "0xf1af",
+      "name": "map-laundry"
+    },
+    {
+      "code": "0xf1b0",
+      "name": "map-library"
+    },
+    {
+      "code": "0xf1b2",
+      "name": "map-location"
+    },
+    {
+      "code": "0xf1b1",
+      "name": "map-location-off"
+    },
+    {
+      "code": "0xf1b3",
+      "name": "map-mall"
+    },
+    {
+      "code": "0xf1b4",
+      "name": "map-movie"
+    },
+    {
+      "code": "0xf1b5",
+      "name": "map-navigation"
+    },
+    {
+      "code": "0xf1b6",
+      "name": "map-parking"
+    },
+    {
+      "code": "0xf1b7",
+      "name": "map-pharmacy"
+    },
+    {
+      "code": "0xf1b8",
+      "name": "map-pin"
+    },
+    {
+      "code": "0xf1b9",
+      "name": "map-pizza"
+    },
+    {
+      "code": "0xf1ba",
+      "name": "map-play"
+    },
+    {
+      "code": "0xf1bb",
+      "name": "map-restaurant"
+    },
+    {
+      "code": "0xf1bc",
+      "name": "map-shipping"
+    },
+    {
+      "code": "0xf1bd",
+      "name": "map-store"
+    },
+    {
+      "code": "0xf1be",
+      "name": "map-subway"
+    },
+    {
+      "code": "0xf1bf",
+      "name": "map-taxi"
+    },
+    {
+      "code": "0xf1c0",
+      "name": "map-theater"
+    },
+    {
+      "code": "0xf1c1",
+      "name": "map-traffic"
+    },
+    {
+      "code": "0xf1c2",
+      "name": "map-train"
+    },
+    {
+      "code": "0xf1c3",
+      "name": "map-walk"
+    },
+    {
+      "code": "0xf1c5",
+      "name": "media-forward"
+    },
+    {
+      "code": "0xf1c6",
+      "name": "media-next"
+    },
+    {
+      "code": "0xf1c7",
+      "name": "media-pause"
+    },
+    {
+      "code": "0xf1c8",
+      "name": "media-play"
+    },
+    {
+      "code": "0xf1c9",
+      "name": "media-previous"
+    },
+    {
+      "code": "0xf1cb",
+      "name": "media-repeat"
+    },
+    {
+      "code": "0xf1ca",
+      "name": "media-repeat-one"
+    },
+    {
+      "code": "0xf1cc",
+      "name": "media-replay"
+    },
+    {
+      "code": "0xf1cd",
+      "name": "media-rewind"
+    },
+    {
+      "code": "0xf1ce",
+      "name": "media-shuffle"
+    },
+    {
+      "code": "0xf1cf",
+      "name": "memory"
+    },
+    {
+      "code": "0xf1d3",
+      "name": "mic"
+    },
+    {
+      "code": "0xf1d0",
+      "name": "mic-none"
+    },
+    {
+      "code": "0xf1d1",
+      "name": "mic-off"
+    },
+    {
+      "code": "0xf1d2",
+      "name": "mic-settings"
+    },
+    {
+      "code": "0xf1d4",
+      "name": "mood"
+    },
+    {
+      "code": "0xf1d5",
+      "name": "more"
+    },
+    {
+      "code": "0xf1d6",
+      "name": "mouse"
+    },
+    {
+      "code": "0xf1d7",
+      "name": "multitrack-audio"
+    },
+    {
+      "code": "0xf1d8",
+      "name": "music-list"
+    },
+    {
+      "code": "0xf1da",
+      "name": "nature"
+    },
+    {
+      "code": "0xf1d9",
+      "name": "nature-people"
+    },
+    {
+      "code": "0xf1db",
+      "name": "nfc"
+    },
+    {
+      "code": "0xf1e0",
+      "name": "notifications"
+    },
+    {
+      "code": "0xf1dc",
+      "name": "notifications-none"
+    },
+    {
+      "code": "0xf1dd",
+      "name": "notifications-off"
+    },
+    {
+      "code": "0xf1de",
+      "name": "notifications-on"
+    },
+    {
+      "code": "0xf1df",
+      "name": "notifications-paused"
+    },
+    {
+      "code": "0xf1e1",
+      "name": "now-wallpaper"
+    },
+    {
+      "code": "0xf1e2",
+      "name": "open-in-browser"
+    },
+    {
+      "code": "0xf1e3",
+      "name": "open-in-new"
+    },
+    {
+      "code": "0xf1e4",
+      "name": "open-with"
+    },
+    {
+      "code": "0xf1e5",
+      "name": "overscan"
+    },
+    {
+      "code": "0xf1e6",
+      "name": "pages"
+    },
+    {
+      "code": "0xf1e7",
+      "name": "pageview"
+    },
+    {
+      "code": "0xf1e8",
+      "name": "palette"
+    },
+    {
+      "code": "0xf1ec",
+      "name": "panorama"
+    },
+    {
+      "code": "0xf1e9",
+      "name": "panorama-horizontal"
+    },
+    {
+      "code": "0xf1ea",
+      "name": "panorama-vertical"
+    },
+    {
+      "code": "0xf1eb",
+      "name": "panorama-wide-angle"
+    },
+    {
+      "code": "0xf1ed",
+      "name": "paste"
+    },
+    {
+      "code": "0xf1f0",
+      "name": "people"
+    },
+    {
+      "code": "0xf1ee",
+      "name": "people-add"
+    },
+    {
+      "code": "0xf1ef",
+      "name": "people-outline"
+    },
+    {
+      "code": "0xf1f3",
+      "name": "person"
+    },
+    {
+      "code": "0xf1f1",
+      "name": "person-add"
+    },
+    {
+      "code": "0xf1f2",
+      "name": "person-outline"
+    },
+    {
+      "code": "0xf1ff",
+      "name": "phone"
+    },
+    {
+      "code": "0xf1f5",
+      "name": "phone-bluetooth"
+    },
+    {
+      "code": "0xf1f6",
+      "name": "phone-forwarded"
+    },
+    {
+      "code": "0xf1f7",
+      "name": "phone-in-talk"
+    },
+    {
+      "code": "0xf1f8",
+      "name": "phone-iphone"
+    },
+    {
+      "code": "0xf1f9",
+      "name": "phone-locked"
+    },
+    {
+      "code": "0xf1fa",
+      "name": "phone-missed"
+    },
+    {
+      "code": "0xf1fb",
+      "name": "phone-msg"
+    },
+    {
+      "code": "0xf1fc",
+      "name": "phone-paused"
+    },
+    {
+      "code": "0xf2f3",
+      "name": "phone-settings"
+    },
+    {
+      "code": "0xf1fd",
+      "name": "phone-sip"
+    },
+    {
+      "code": "0xf1fe",
+      "name": "phone-volume"
+    },
+    {
+      "code": "0xf201",
+      "name": "phonelink"
+    },
+    {
+      "code": "0xf200",
+      "name": "phonelink-off"
+    },
+    {
+      "code": "0xf202",
+      "name": "picasa"
+    },
+    {
+      "code": "0xf203",
+      "name": "picture-in-picture"
+    },
+    {
+      "code": "0xf204",
+      "name": "play-download"
+    },
+    {
+      "code": "0xf205",
+      "name": "play-install"
+    },
+    {
+      "code": "0xf206",
+      "name": "play-shopping"
+    },
+    {
+      "code": "0xf207",
+      "name": "playlist-add"
+    },
+    {
+      "code": "0xf208",
+      "name": "poll"
+    },
+    {
+      "code": "0xf209",
+      "name": "polymer"
+    },
+    {
+      "code": "0xf20a",
+      "name": "portable-wifi-off"
+    },
+    {
+      "code": "0xf20b",
+      "name": "portrait"
+    },
+    {
+      "code": "0xf20c",
+      "name": "print"
+    },
+    {
+      "code": "0xf20d",
+      "name": "public"
+    },
+    {
+      "code": "0xf20e",
+      "name": "publish"
+    },
+    {
+      "code": "0xf211",
+      "name": "radio"
+    },
+    {
+      "code": "0xf20f",
+      "name": "radio-button-off"
+    },
+    {
+      "code": "0xf210",
+      "name": "radio-button-on"
+    },
+    {
+      "code": "0xf212",
+      "name": "receipt"
+    },
+    {
+      "code": "0xf213",
+      "name": "redo"
+    },
+    {
+      "code": "0xf214",
+      "name": "release"
+    },
+    {
+      "code": "0xf215",
+      "name": "remove"
+    },
+    {
+      "code": "0xf216",
+      "name": "reorder"
+    },
+    {
+      "code": "0xf218",
+      "name": "reply"
+    },
+    {
+      "code": "0xf217",
+      "name": "reply-all"
+    },
+    {
+      "code": "0xf219",
+      "name": "report"
+    },
+    {
+      "code": "0xf21a",
+      "name": "rotate-left"
+    },
+    {
+      "code": "0xf21b",
+      "name": "rotate-right"
+    },
+    {
+      "code": "0xf21c",
+      "name": "satellite"
+    },
+    {
+      "code": "0xf21d",
+      "name": "save"
+    },
+    {
+      "code": "0xf21e",
+      "name": "sd-card"
+    },
+    {
+      "code": "0xf21f",
+      "name": "search"
+    },
+    {
+      "code": "0xf220",
+      "name": "security"
+    },
+    {
+      "code": "0xf221",
+      "name": "select-allsvg"
+    },
+    {
+      "code": "0xf228",
+      "name": "settings"
+    },
+    {
+      "code": "0xf222",
+      "name": "settings-applications"
+    },
+    {
+      "code": "0xf223",
+      "name": "settings-backup"
+    },
+    {
+      "code": "0xf224",
+      "name": "settings-cloud"
+    },
+    {
+      "code": "0xf225",
+      "name": "settings-display"
+    },
+    {
+      "code": "0xf226",
+      "name": "settings-power"
+    },
+    {
+      "code": "0xf227",
+      "name": "settings-remote"
+    },
+    {
+      "code": "0xf229",
+      "name": "share"
+    },
+    {
+      "code": "0xf22c",
+      "name": "shopping"
+    },
+    {
+      "code": "0xf22a",
+      "name": "shopping-add"
+    },
+    {
+      "code": "0xf22b",
+      "name": "shopping-basket"
+    },
+    {
+      "code": "0xf22d",
+      "name": "signal-0"
+    },
+    {
+      "code": "0xf22e",
+      "name": "signal-1"
+    },
+    {
+      "code": "0xf22f",
+      "name": "signal-2"
+    },
+    {
+      "code": "0xf230",
+      "name": "signal-3"
+    },
+    {
+      "code": "0xf231",
+      "name": "signal-4"
+    },
+    {
+      "code": "0xf232",
+      "name": "signal-locked"
+    },
+    {
+      "code": "0xf233",
+      "name": "signal-no-connected"
+    },
+    {
+      "code": "0xf234",
+      "name": "signal-null"
+    },
+    {
+      "code": "0xf235",
+      "name": "signal-off"
+    },
+    {
+      "code": "0xf236",
+      "name": "signal-problem-1"
+    },
+    {
+      "code": "0xf237",
+      "name": "signal-problem-2"
+    },
+    {
+      "code": "0xf238",
+      "name": "signal-problem-3"
+    },
+    {
+      "code": "0xf239",
+      "name": "signal-problem-4"
+    },
+    {
+      "code": "0xf23a",
+      "name": "signal-setting"
+    },
+    {
+      "code": "0xf23d",
+      "name": "sim-card"
+    },
+    {
+      "code": "0xf23b",
+      "name": "sim-card-alert"
+    },
+    {
+      "code": "0xf23c",
+      "name": "sim-card-none"
+    },
+    {
+      "code": "0xf23e",
+      "name": "slideshow"
+    },
+    {
+      "code": "0xf23f",
+      "name": "sms-chat"
+    },
+    {
+      "code": "0xf240",
+      "name": "sms-failed"
+    },
+    {
+      "code": "0xf241",
+      "name": "sms-image"
+    },
+    {
+      "code": "0xf242",
+      "name": "sms-info"
+    },
+    {
+      "code": "0xf243",
+      "name": "sms-left"
+    },
+    {
+      "code": "0xf244",
+      "name": "sms-notes"
+    },
+    {
+      "code": "0xf245",
+      "name": "sms-qa"
+    },
+    {
+      "code": "0xf246",
+      "name": "sms-receiver"
+    },
+    {
+      "code": "0xf247",
+      "name": "sms-right"
+    },
+    {
+      "code": "0xf248",
+      "name": "sms-sender"
+    },
+    {
+      "code": "0xf249",
+      "name": "sms-text"
+    },
+    {
+      "code": "0xf24a",
+      "name": "sms-video"
+    },
+    {
+      "code": "0xf24b",
+      "name": "sort"
+    },
+    {
+      "code": "0xf24c",
+      "name": "speaker"
+    },
+    {
+      "code": "0xf24d",
+      "name": "spellcheck"
+    },
+    {
+      "code": "0xf251",
+      "name": "star"
+    },
+    {
+      "code": "0xf24e",
+      "name": "star-half"
+    },
+    {
+      "code": "0xf24f",
+      "name": "star-outline"
+    },
+    {
+      "code": "0xf250",
+      "name": "star-rate"
+    },
+    {
+      "code": "0xf252",
+      "name": "start-big"
+    },
+    {
+      "code": "0xf253",
+      "name": "stop"
+    },
+    {
+      "code": "0xf254",
+      "name": "storage"
+    },
+    {
+      "code": "0xf255",
+      "name": "straighten"
+    },
+    {
+      "code": "0xf256",
+      "name": "style"
+    },
+    {
+      "code": "0xf257",
+      "name": "subject"
+    },
+    {
+      "code": "0xf258",
+      "name": "subtitles"
+    },
+    {
+      "code": "0xf259",
+      "name": "surround-sound"
+    },
+    {
+      "code": "0xf25a",
+      "name": "swap-calls"
+    },
+    {
+      "code": "0xf25b",
+      "name": "swap-horiz"
+    },
+    {
+      "code": "0xf25c",
+      "name": "swap-vert"
+    },
+    {
+      "code": "0xf25d",
+      "name": "switch-camera"
+    },
+    {
+      "code": "0xf27e",
+      "name": "switch-video"
+    },
+    {
+      "code": "0xf27f",
+      "name": "sync-1"
+    },
+    {
+      "code": "0xf280",
+      "name": "sync-2"
+    },
+    {
+      "code": "0xf281",
+      "name": "sync-3"
+    },
+    {
+      "code": "0xf282",
+      "name": "sync-disabled"
+    },
+    {
+      "code": "0xf283",
+      "name": "sync-problem"
+    },
+    {
+      "code": "0xf284",
+      "name": "system-update"
+    },
+    {
+      "code": "0xf286",
+      "name": "tab"
+    },
+    {
+      "code": "0xf285",
+      "name": "tab-unselected"
+    },
+    {
+      "code": "0xf289",
+      "name": "tablet"
+    },
+    {
+      "code": "0xf287",
+      "name": "tablet-android"
+    },
+    {
+      "code": "0xf288",
+      "name": "tablet-mac"
+    },
+    {
+      "code": "0xf28a",
+      "name": "tag-loyalty"
+    },
+    {
+      "code": "0xf28b",
+      "name": "tag-offer"
+    },
+    {
+      "code": "0xf28c",
+      "name": "text-format"
+    },
+    {
+      "code": "0xf28d",
+      "name": "text-review"
+    },
+    {
+      "code": "0xf28e",
+      "name": "texture"
+    },
+    {
+      "code": "0xf28f",
+      "name": "thumb-down"
+    },
+    {
+      "code": "0xf290",
+      "name": "thumb-up"
+    },
+    {
+      "code": "0xf291",
+      "name": "thumbs_up-down"
+    },
+    {
+      "code": "0xf292",
+      "name": "time"
+    },
+    {
+      "code": "0xf293",
+      "name": "timelapse"
+    },
+    {
+      "code": "0xf297",
+      "name": "timer"
+    },
+    {
+      "code": "0xf294",
+      "name": "timer-10"
+    },
+    {
+      "code": "0xf295",
+      "name": "timer-3"
+    },
+    {
+      "code": "0xf296",
+      "name": "timer-off"
+    },
+    {
+      "code": "0xf298",
+      "name": "toc"
+    },
+    {
+      "code": "0xf299",
+      "name": "tonality"
+    },
+    {
+      "code": "0xf29a",
+      "name": "track-changes"
+    },
+    {
+      "code": "0xf29b",
+      "name": "transform"
+    },
+    {
+      "code": "0xf29c",
+      "name": "translate"
+    },
+    {
+      "code": "0xf29d",
+      "name": "trash"
+    },
+    {
+      "code": "0xf29e",
+      "name": "trending-down"
+    },
+    {
+      "code": "0xf29f",
+      "name": "trending-neutral"
+    },
+    {
+      "code": "0xf2a0",
+      "name": "trending-up"
+    },
+    {
+      "code": "0xf2a1",
+      "name": "tune"
+    },
+    {
+      "code": "0xf2a2",
+      "name": "tv"
+    },
+    {
+      "code": "0xf2a3",
+      "name": "undo"
+    },
+    {
+      "code": "0xf2a4",
+      "name": "usb"
+    },
+    {
+      "code": "0xf2a5",
+      "name": "verified"
+    },
+    {
+      "code": "0xf2a6",
+      "name": "vertical-align-bottom"
+    },
+    {
+      "code": "0xf2a7",
+      "name": "vertical-align-center"
+    },
+    {
+      "code": "0xf2a8",
+      "name": "vertical-align-top"
+    },
+    {
+      "code": "0xf2a9",
+      "name": "vibration"
+    },
+    {
+      "code": "0xf2ab",
+      "name": "videocam"
+    },
+    {
+      "code": "0xf2aa",
+      "name": "videocam-off"
+    },
+    {
+      "code": "0xf2ac",
+      "name": "view-agenda"
+    },
+    {
+      "code": "0xf2ad",
+      "name": "view-array"
+    },
+    {
+      "code": "0xf2ae",
+      "name": "view-carousel"
+    },
+    {
+      "code": "0xf2af",
+      "name": "view-column"
+    },
+    {
+      "code": "0xf2b0",
+      "name": "view-day"
+    },
+    {
+      "code": "0xf2b1",
+      "name": "view-headline"
+    },
+    {
+      "code": "0xf2b2",
+      "name": "view-list"
+    },
+    {
+      "code": "0xf2b3",
+      "name": "view-module"
+    },
+    {
+      "code": "0xf2b4",
+      "name": "view-quilt"
+    },
+    {
+      "code": "0xf2b5",
+      "name": "view-stream"
+    },
+    {
+      "code": "0xf2b6",
+      "name": "view-week"
+    },
+    {
+      "code": "0xf2b8",
+      "name": "visibility"
+    },
+    {
+      "code": "0xf2b7",
+      "name": "visibility-off"
+    },
+    {
+      "code": "0xf2b9",
+      "name": "voicemail"
+    },
+    {
+      "code": "0xf2ba",
+      "name": "volume-down"
+    },
+    {
+      "code": "0xf2bb",
+      "name": "volume-mute"
+    },
+    {
+      "code": "0xf2bc",
+      "name": "volume-off"
+    },
+    {
+      "code": "0xf2bd",
+      "name": "volume-up"
+    },
+    {
+      "code": "0xf2c1",
+      "name": "vpn-key"
+    },
+    {
+      "code": "0xf2c2",
+      "name": "vpn-lock"
+    },
+    {
+      "code": "0xf2c3",
+      "name": "wallet-giftcard"
+    },
+    {
+      "code": "0xf2c4",
+      "name": "wallet-membership"
+    },
+    {
+      "code": "0xf2c5",
+      "name": "wallet-travel"
+    },
+    {
+      "code": "0xf2c6",
+      "name": "warning"
+    },
+    {
+      "code": "0xf2c8",
+      "name": "watch"
+    },
+    {
+      "code": "0xf2cb",
+      "name": "wb-auto"
+    },
+    {
+      "code": "0xf2cc",
+      "name": "wb-incandescent"
+    },
+    {
+      "code": "0xf2cd",
+      "name": "wb-irradescent"
+    },
+    {
+      "code": "0xf2ce",
+      "name": "wb-sunny"
+    },
+    {
+      "code": "0xf2cf",
+      "name": "web"
+    },
+    {
+      "code": "0xf2d0",
+      "name": "whatshot"
+    },
+    {
+      "code": "0xf2d5",
+      "name": "widgets"
+    },
+    {
+      "code": "0xf2d6",
+      "name": "wifi-0"
+    },
+    {
+      "code": "0xf2da",
+      "name": "wifi-1"
+    },
+    {
+      "code": "0xf2db",
+      "name": "wifi-2"
+    },
+    {
+      "code": "0xf2dc",
+      "name": "wifi-3"
+    },
+    {
+      "code": "0xf2de",
+      "name": "wifi-4"
+    },
+    {
+      "code": "0xf2df",
+      "name": "wifi-internet-0"
+    },
+    {
+      "code": "0xf2e1",
+      "name": "wifi-internet-1"
+    },
+    {
+      "code": "0xf2e2",
+      "name": "wifi-internet-2"
+    },
+    {
+      "code": "0xf2e5",
+      "name": "wifi-internet-3"
+    },
+    {
+      "code": "0xf2e6",
+      "name": "wifi-internet-4"
+    },
+    {
+      "code": "0xf2e7",
+      "name": "wifi-lock"
+    },
+    {
+      "code": "0xf2e8",
+      "name": "wifi-not-connected"
+    },
+    {
+      "code": "0xf2ea",
+      "name": "wifi-null"
+    },
+    {
+      "code": "0xf2ed",
+      "name": "wifi-off"
+    },
+    {
+      "code": "0xf2ee",
+      "name": "wifi-scan"
+    },
+    {
+      "code": "0xf2ef",
+      "name": "wifi-tethering"
+    },
+    {
+      "code": "0xf2f1",
+      "name": "work"
+    },
+    {
+      "code": "0xf2f2",
+      "name": "wrap-text"
+    }
+  ]
+}

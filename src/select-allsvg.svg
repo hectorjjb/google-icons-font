@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="528" height="528" viewBox="0, 0, 48, 48">
+  <g id="Layer_1">
+    <path d="M6,10 L10,10 L10,6 C7.79,6 6,7.79 6,10 z M6,26 L10,26 L10,22 L6,22 L6,26 z M14,42 L18,42 L18,38 L14,38 L14,42 z M6,18 L10,18 L10,14 L6,14 L6,18 z M26,6 L22,6 L22,10 L26,10 L26,6 z M38,6 L38,10 L42,10 C42,7.79 40.21,6 38,6 z M10,42 L10,38 L6,38 C6,40.21 7.79,42 10,42 z M6,34 L10,34 L10,30 L6,30 L6,34 z M18,6 L14,6 L14,10 L18,10 L18,6 z M22,42 L26,42 L26,38 L22,38 L22,42 z M38,26 L42,26 L42,22 L38,22 L38,26 z M38,42 C40.21,42 42,40.21 42,38 L38,38 L38,42 z M38,18 L42,18 L42,14 L38,14 L38,18 z M38,34 L42,34 L42,30 L38,30 L38,34 z M30,42 L34,42 L34,38 L30,38 L30,42 z M30,10 L34,10 L34,6 L30,6 L30,10 z M14,34 L34,34 L34,14 L14,14 L14,34 z M18,18 L30,18 L30,30 L18,30 L18,18 z" fill="#000000"/>
+  </g>
+</svg>

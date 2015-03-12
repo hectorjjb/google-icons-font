@@ -1,0 +1,19 @@
+{
+    "repo": "driftyco/ionicons",
+    "development": {},
+    "version": "0.0.1",
+    "styles": [
+        "css/google-icons-font.css"
+    ],
+    "name": "google-icons-font",
+    "dependencies": {},
+    "keywords": [],
+    "license": "MIT",
+    "fonts": [
+        "fonts/google-icons-font.eot",
+        "fonts/google-icons-font.svg",
+        "fonts/google-icons-font.ttf",
+        "fonts/google-icons-font.woff"
+    ],
+    "description": "The premium Google icon font inspired on Ionicons."
+}
