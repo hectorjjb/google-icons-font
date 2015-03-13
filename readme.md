@@ -1,4 +1,4 @@
-# Ionicons
+# Google Icons Font
 
 
 The premium icon font for [Ionic](http://ionicframework.com/). Designed by [@benjsperry](https://twitter.com/benjsperry).
@@ -18,13 +18,13 @@ We intend for this icon pack to be used with [Ionic](http://ionicframework.com/)
  4. Ensure the font urls within `ionicons.css` properly reference the `fonts` path within your project.
  5. Include a reference to the `ionicons.css` file from every webpage you need to use it.
 
-Or install with [component](https://github.com/component/component):
+<!-- Or install with [component](https://github.com/component/component):
 
     $ component install driftyco/ionicons
     
 Or perhaps you're known to use [bower](http://bower.io/)?
    
-    $ bower install ionicons
+    $ bower install ionicons -->
 
 
 ## HTML Example
